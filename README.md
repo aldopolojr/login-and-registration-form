@@ -2,7 +2,7 @@
 This is a **quick tutorial**, check here for the [demo](https://aldopolojr.github.io/login-and-registration-form/)
 
 ## Notes
-- …
+- pointer-events
 
 ## Source
 [https://youtu.be/HLB9d201-oY](https://youtu.be/HLB9d201-oY)
