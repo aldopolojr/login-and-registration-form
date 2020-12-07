@@ -1,1 +1,4 @@
-console.log("hello world");
+function toggleForm() {
+    let container = document.querySelector('.container');
+    container.classList.toggle('active');
+}
